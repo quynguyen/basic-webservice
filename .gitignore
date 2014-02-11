@@ -1,0 +1,12 @@
+*.iml
+.gradle
+.settings/
+.svn
+.idea/
+classes/
+build/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
