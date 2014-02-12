@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 *.iml
+*.swp
 .gradle
 .settings/
 .svn
@@ -11,11 +11,3 @@ pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.next
 release.properties
-=======
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
->>>>>>> c2ab38a0cc77315746a0bd14a2677688853a3774
